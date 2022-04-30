@@ -1,7 +1,7 @@
 
 ## I'm your avarage 14 year old programmer. Hope you enjoy my GitHub! If you do, drop a follow/star!
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vDiming&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vDiming&theme=radical" /> <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vDiming&layout=compact" />
 
 ## About me
 
@@ -26,7 +26,6 @@
 ## My Platforms 
 ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white) 	![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vDiming&layout=compact" />
 
 
 	
