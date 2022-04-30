@@ -15,7 +15,7 @@
 
 • 📫 Want to reach me? Add Cread#7503 on discord. Or join my server [My Discord Server](https://discord.gg/GZBSbergNg)
 
-• 🌐 Website: solo.to/6aimz (not mine but it has links to all my socials.
+• 🌐 Website: solo.to/6aimz (not mine but it has links to all my socials.)
 
 
 
