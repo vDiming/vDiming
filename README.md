@@ -13,7 +13,7 @@
 
 • 💬 Ask me about Debugging or Malware Analysis
 
-• 📫 Want to reach me? Add Cread#7503 on discord. Or join my server [My Discord Server](https://discord.gg/GZBSbergNg)
+• 📫 Want to reach me? Add Cread2#1496 on discord. Or join my server [My Discord Server](https://discord.gg/FMf2u4SpAn)
 
 • 🌐 Website: solo.to/6aimz (not mine but it has links to all my socials.)
 
